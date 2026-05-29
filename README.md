@@ -1,4 +1,4 @@
-# Hi there, I'm Collins Munge Mwangi! 👋
+# Bonjour, I'm Collins Munge Mwangi! 👋
 ### Founder & Lead Developer at MwasTech Solutions
 
 Full-Stack Systems Developer, Mobile App Engineer,Graphics Designer and Network Architect. I specialize in building robust digital systems, deploying secure network infrastructures, and crafting high-impact brand identities.
